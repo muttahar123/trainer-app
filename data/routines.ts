@@ -48,7 +48,7 @@ export const routines: Routine[] = [
         id: "e4",
         name: "Lateral Raises",
         muscleGroups: ["Shoulders"],
-        sets: 4,
+        sets: 3,
         reps: 15,
         videoUrl: "https://www.w3schools.com/html/mov_bbb.mp4",
       }
